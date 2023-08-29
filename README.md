@@ -11,5 +11,5 @@ especially for those whose's pets have cardiac or respiratory health problems.
 The developer can be contacted by email or via the google play store listing. 
 Their email address is: petbreathcounter@gmail.com 
 
-Ths gitHub repo allows information about the app, especially the privacy policy, to be available
+This GitHub repo allows information about the app, especially the privacy policy, to be available
 for users. 
